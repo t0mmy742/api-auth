@@ -1,0 +1,9 @@
+/.idea/
+/.phpunit.cache/
+/build/
+/vendor/
+/composer.lock
+/infection.json
+/phpcs.xml
+/phpstan.neon
+/phpunit.xml
